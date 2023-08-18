@@ -2,6 +2,9 @@
 
 Project Name: Automate Library Spotify
 
+## Demo
+![Peek 2023-08-18 10-06](https://github.com/rodriguesabner/automate-library-spotify/assets/40338524/9f56d922-d9a6-4dde-a036-dfced035d869)
+
 ## Overview
 
 Automate Library Spotify is a TypeScript project that enables automated interactions with your Spotify library. It allows you to add or remove songs from your library in a streamlined manner. The project is built using TypeScript and provides a convenient way to enhance your Spotify experience through automation.
